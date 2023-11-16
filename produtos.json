@@ -1,0 +1,12 @@
+{
+    "homemAranha": {
+        "foto": "/produtos/canecas/caneca-homem-aranha.png",
+        "nome": "Caneca do Homem Aranha",
+        "descricao": {
+            "tamanho": "320ml",
+            "material": "Caneca de Polimero",
+            "acompanhamentos": "Acompanha Canetinha",
+            "preco": 40
+        }
+    }
+}

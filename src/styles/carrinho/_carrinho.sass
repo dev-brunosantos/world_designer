@@ -1,0 +1,36 @@
+.carrinho
+    animation: aparecer .3s linear
+
+.container_carrinho
+    width: 120px
+    height: auto
+    max-height: 360px
+    // border: solid
+    position: absolute
+    overflow-y: auto
+    bottom: 6rem
+    left: 2rem
+
+.container_carrinho::-webkit-scrollbar
+    width: 10px
+    height: 90%
+    // background-color: #24242430
+.container_carrinho::-webkit-scrollbar-thumb
+    background-color: #24242430
+    // background-color: red
+
+.carrinho_produto
+    width: 75%
+    height: 450px
+    margin-top: 7rem
+    // border: solid
+    justify-content: space-evenly
+    .carrinho_item, .carrinho_pagamento
+        width: 45%
+        height: 90%
+        // border: solid red
+        justify-content: space-evenly
+        img
+            width: 80%
+.carrinho_informacao
+    // border: solid blue

@@ -1,0 +1,31 @@
+{
+    "homemAranha": {
+        "foto": "/produtos/canecas/caneca-homem-aranha.png",
+        "nome": "Caneca do Homem Aranha",
+        "descricao": {
+            "tamanho": "320ml",
+            "material": "Caneca de Polimero",
+            "acompanhamentos": "Acompanha Canetinha"
+        },
+        "preco": 30
+    },
+    "patrulhaCanina": {
+        "foto": "/produtos/canecas/caneca-patrulha-canina.png",
+        "nome": "Caneca Patrulha Canina",
+        "descricao": {
+            "tamanho": "320ml",
+            "material": "Caneca de Porcelana"
+        },
+        "preco": 40
+        
+    },
+    "canecaMagica": {
+        "foto": "/produtos/canecas/caneca-magica.png",
+        "nome": "Caneca Mágica",
+        "descricao": {
+            "tamanho": "320ml",
+            "material": "Caneca de Porcelana"
+        },
+        "preco": 50
+    }
+}

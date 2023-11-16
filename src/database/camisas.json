@@ -1,0 +1,11 @@
+{
+    "palmeiras": {
+        "foto": "/produtos/camisas/camisa-palmeiras.png",
+        "nome": "Camisa do Palmeiras",
+        "descricao": {
+            "tamanho": "P",
+            "material": "Camisa de Algodão"
+        },
+        "preco": 45
+    }
+}
